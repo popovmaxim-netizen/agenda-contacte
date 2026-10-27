@@ -1,2 +1,1 @@
-# Agenda de contacte
-Gestionarea contactelor.
+# Agenda personala
